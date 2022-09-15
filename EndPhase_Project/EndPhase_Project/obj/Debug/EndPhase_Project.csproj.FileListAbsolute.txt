@@ -1,0 +1,10 @@
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\obj\Debug\EndPhase_Project.csproj.AssemblyReference.cache
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\obj\Debug\EndPhase_Project.csproj.CoreCompileInputs.cache
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\bin\Debug\EndPhase_Project.exe.config
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\bin\Debug\EndPhase_Project.exe
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\bin\Debug\EndPhase_Project.pdb
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\bin\Debug\PlayersLibrary.dll
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\bin\Debug\PlayersLibrary.pdb
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\obj\Debug\EndPhase_Project.csproj.CopyComplete
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\obj\Debug\EndPhase_Project.exe
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\EndPhase_Project\obj\Debug\EndPhase_Project.pdb

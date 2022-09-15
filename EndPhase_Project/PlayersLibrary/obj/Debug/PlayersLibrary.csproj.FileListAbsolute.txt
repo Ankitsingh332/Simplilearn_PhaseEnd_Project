@@ -1,0 +1,6 @@
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\bin\Debug\PlayersLibrary.dll
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\bin\Debug\PlayersLibrary.pdb
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\obj\Debug\PlayersLibrary.csproj.AssemblyReference.cache
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\obj\Debug\PlayersLibrary.csproj.CoreCompileInputs.cache
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\obj\Debug\PlayersLibrary.dll
+D:\Simplilearn_PhaseEnd_Project\EndPhase_Project\PlayersLibrary\obj\Debug\PlayersLibrary.pdb
